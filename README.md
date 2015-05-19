@@ -13,7 +13,7 @@ This is the repository for the notebooks generated at the workshop, and the slid
 
 At the workshop, the working groups produced the following notebooks:
 
-* [Persistent Variables: notes, plans and simple extensions of the Variability notebook]()
+* [Persistent Variables: notes, plans and simple extensions of the Variability notebook](https://github.com/DanielMortlock/UK_cadence_workshop_2015/blob/master/notebooks/PersistentVariabilityMetrics.v3.ipynb)
 *  ...
 *  ...
 
