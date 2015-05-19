@@ -11,10 +11,19 @@ This is the repository for the notebooks generated at the workshop, and the slid
 
 ## Notebooks
 
-All the example notebooks are available at [https://github.com/lsst-sims/sims_maf_notebooks](https://github.com/lsst-sims/sims_maf_notebooks)
+All the LSST sims team's example notebooks are [available on GitHub](https://github.com/lsst-sims/sims_maf_notebooks). They call the metric code defined in the `sims_maf_contrib` and `lsst/sims/maf` modules.
 
-git clone https://github.com/lsst-sims/sims_maf_notebooks
+    git clone https://github.com/lsst-sims/sims_maf_notebooks
+    git clone https://github.com/LSST-nonproject/sims_maf_contrib.git
 
-git clone https://github.com/LSST-nonproject/sims_maf_contrib.git
+Don't forget to:
+    loadLSST.csh
+    setup sims_maf -t sims
+    setup sims_maf_contrib
+in the right places.
 
-## Useful Links
+At the workshop, the working groups produced the following notebooks:
+
+* [Persistent Variables: notes, plans and simple extensions of the Variability notebook]()
+
+## Other Useful Links
