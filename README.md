@@ -17,6 +17,7 @@ All the LSST sims team's example notebooks are [available on GitHub](https://git
     git clone https://github.com/LSST-nonproject/sims_maf_contrib.git
 
 Don't forget to:
+
     loadLSST.csh
     setup sims_maf -t sims
     setup sims_maf_contrib
